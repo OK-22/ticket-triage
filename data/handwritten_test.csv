@@ -1,0 +1,49 @@
+text,category
+"Locked out of my account since this morning, tried three passwords",password_reset
+How do I change my login credentials? the old one stopped working after the weekend,password_reset
+I typed my password wrong several times and now it says the account is disabled,password_reset
+"Please help, forgot the credentials for my work computer",password_reset
+My sign-in is rejected and the screen says password has expired,password_reset
+Can someone unlock my user? I keep getting access denied at the login screen,password_reset
+"Need a new temporary password for jsmith, he's out of the office",password_reset
+"Cannot get into Windows, it says my password must be changed but the change fails",password_reset
+We have a contractor joining Monday and she will need a login and email set up,account_access
+Could you give me read access to the shared drive for the finance team?,account_access
+"Please remove Mark from the sales mailing group and the CRM, last day was Friday",account_access
+I changed departments and need the same permissions as the rest of the engineering team,account_access
+Please add my new intern to the project folder and the team channel,account_access
+"New starter onboarding checklist: user ID, building badge, and VPN access",account_access
+Need access to the HR portal to approve leave requests,account_access
+"Offboarding request for a departing employee, please disable all of their accounts",account_access
+"Can't reach the intranet from my desk, other people in my row are fine",network_connectivity
+VPN says connection failed after the client updated,network_connectivity
+Internet is extremely slow on the third floor since lunchtime,network_connectivity
+Trying to ssh into the dev server but the connection just hangs,network_connectivity
+The mapped network drive disappeared and I can't open our shared files,network_connectivity
+Wireless network shows connected but no websites will load,network_connectivity
+Remote desktop to my office PC keeps timing out when I'm at home,network_connectivity
+"Ethernet port at my desk seems dead, no link light",network_connectivity
+Zoom won't launch after the latest windows update,software_issue
+Please deploy the latest version of Python to my laptop for the data project,software_issue
+Word crashes whenever I try to open the quarterly report,software_issue
+"I'm being told my Adobe license is invalid, can you renew it?",software_issue
+Installer for the accounting software fails with error 1603,software_issue
+Excel is running very slow and freezes with the big spreadsheet,software_issue
+Could you install a PDF editor? I need to sign documents,software_issue
+Chrome keeps showing a blank page for our internal web app,software_issue
+My laptop screen cracked when it fell off the desk,hardware_issue
+The docking station isn't charging my laptop anymore,hardware_issue
+Strange clicking noise is coming from my computer and it shuts down randomly,hardware_issue
+Webcam shows a black picture during meetings,hardware_issue
+Printer jams every time I print double sided,hardware_issue
+"Need a spare charger, mine frayed and stopped working",hardware_issue
+"Desktop will not boot, just shows a blinking cursor",hardware_issue
+Speakers on my pc have no sound even though the volume is up,hardware_issue
+Outlook is stuck on 'updating inbox' and new messages aren't arriving,email_problem
+I sent an email to a customer and it bounced back with an error,email_problem
+My calendar isn't syncing with my phone,email_problem
+"A lot of spam is reaching my inbox, can you tighten the filter?",email_problem
+"Cannot attach files to messages, it says the mailbox quota is exceeded",email_problem
+"People say they never get my replies, maybe they land in junk",email_problem
+Shared mailbox for support disappeared from my Outlook,email_problem
+Out of office reply is not being sent automatically,email_problem
